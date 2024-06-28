@@ -1,0 +1,8 @@
+admin
+Password123
+
+
+
+admin directory is named as Management
+so if u want to access admin panel type
+localhost/travel/Management/Home.php
